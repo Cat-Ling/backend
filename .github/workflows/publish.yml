@@ -7,7 +7,7 @@ on:
 
 env:
   REGISTRY: ghcr.io
-  IMAGE: github.com/Cat-Ling/backend
+  IMAGE: ghcr.io/cat-ling/backend
 
 jobs:
   build:
